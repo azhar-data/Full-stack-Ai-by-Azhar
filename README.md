@@ -139,8 +139,8 @@ Choose a script and dataset from the same topic folder. Some scripts expect a CS
 
 **Muhammad Azhar** — learning and building in Python, data analysis, machine learning, deep learning, and Generative AI.
 
-- GitHub: [@azhar-data](https://github.com/azhar-data)
-- LinkedIn: [Muhammad Azhar — AI/ML](https://www.linkedin.com/in/muhammad-azhar-ai-engineer)
+- GitHub: https://github.com/azhar-data
+- LinkedIn: https://www.linkedin.com/in/muhammad-azhar-ai-engineer
 
 ---
 
